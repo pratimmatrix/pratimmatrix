@@ -37,7 +37,7 @@ name: "Pratim Mistry"
 role: "AI/ML Engineer · Software Engineer · Computer Vision Enthusiast"
 background: "Mechanical Engineering foundation, self-driven into Software & AI"
 focus:
-  - Building production-grade ML applications end-to-end
+  - Building ML systems end-to-end, from raw math to working applications
   - Deep systems understanding — implemented GPT-2 inference from raw NumPy
   - Computer Vision & Object Detection (YOLO-based real-time systems)
   - Full-stack product engineering with Python/FastAPI backends
@@ -45,7 +45,7 @@ mindset: "Engineer first, ML practitioner second — I care about how things
           work under the hood, not just calling an API"
 ```
 
-I'm an engineering student who traded pure mechanical systems for computational ones — currently building AI-powered applications that ship, not just notebooks that demo. My work spans **classification pipelines deployed for real insurance workflows**, **from-scratch transformer inference engines**, and **real-time computer vision systems**. I care deeply about correctness — validating implementations token-for-token against reference models rather than assuming they work.
+I'm an engineering student who traded pure mechanical systems for computational ones — currently building AI-powered applications that ship, not just notebooks that demo. My work spans **from-scratch transformer inference engines** and **real-time computer vision systems**. I care deeply about correctness — validating implementations token-for-token against reference models rather than assuming they work.
 
 **🎯 Open To:** AI/ML Engineering Internships · Software Engineering Roles · Computer Vision Projects · Open Source Collaboration
 
@@ -87,10 +87,9 @@ I'm an engineering student who traded pure mechanical systems for computational 
 |:--|:--:|:--|
 | **Deep Learning & Transformers** | ⭐⭐⭐⭐☆ | Built GPT-2 inference engine from scratch in NumPy — attention, KV-cache, LayerNorm, MLP |
 | **Computer Vision** | ⭐⭐⭐⭐☆ | Real-time object detection (YOLO) for gym equipment recognition using OpenCV + PyTorch |
-| **Classical ML / Applied ML** | ⭐⭐⭐⭐⭐ | Deployed a fault-classification model with confidence scoring for insurance claim workflows |
 | **NLP & Tokenization** | ⭐⭐⭐☆☆ | Implemented byte-pair-encoding (BPE) tokenizer and nucleus/top-k/top-p sampling from scratch |
-| **Data Engineering & Visualization** | ⭐⭐⭐⭐☆ | Pandas-driven batch pipelines, Plotly-based interactive analytics dashboards |
-| **MLOps / Deployment** | ⭐⭐⭐☆☆ | Streamlit deployment, virtualenv + requirements.txt managed dependency stacks |
+| **Data Engineering & Visualization** | ⭐⭐⭐☆☆ | Pandas-driven data workflows, Plotly-based interactive analytics |
+| **Applied Data Analytics** | ⭐⭐⭐☆☆ | Hands-on practice via Forage job simulations (Goldman Sachs, Tata, Deloitte, BCG X) |
 
 </div>
 
@@ -113,7 +112,7 @@ Real-time gym equipment recognition app that identifies machines like bench pres
 | **Impact** | Instant equipment identification + safety guidance for gym users |
 | **Repository** | [View Repo](https://github.com/pratimmatrix/gym-whale) |
 
-Built as an end-to-end computer vision product rather than a research prototype — the backend is designed around FastAPI to keep inference and API concerns cleanly separated, with OpenCV handling the video pipeline and PyTorch driving the detection model.
+Built as an end-to-end computer vision product rather than a research prototype — the backend is designed around FastAPI to keep inference and API concerns cleanly separated, with OpenCV handling the video pipeline and PyTorch driving the detection model. The detector is trained to recognize multiple equipment classes, mapping each detection to target-muscle information and safety guidance.
 
 </details>
 
@@ -138,39 +137,15 @@ This project strips away high-level framework abstractions to prove a from-first
 
 ---
 
-## 💼 Experience
+## 🤝 Leadership & Extracurricular
 
 <div align="center">
 
-### Artificial Intelligence and Machine Learning Intern
-**IIIT Allahabad**
-`June 2026 – July 2026`
-
-</div>
-
-Worked on **Driver Fault Classification**, a Streamlit-based ML application predicting at-fault status in vehicle collisions for insurance claim processing pipelines.
-
-**Scope of Work:**
-- 🔹 Deployed a Python virtual environment with a `requirements.txt`-managed dependency stack
-- 🔹 Trained and integrated a classification model (via `joblib`) exposing prediction confidence scores
-- 🔹 Built dynamic result cards for "Driver At Fault" vs. "Driver Not At Fault" outcomes
-- 🔹 Implemented single and batch prediction modes with CSV upload/download workflows using Pandas
-- 🔹 Designed interactive Plotly visualizations — probability-split and fault-distribution pie charts
-
-`Python` `Streamlit` `Scikit-learn` `Pandas` `Plotly` `joblib`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| 🎓 AI/ML Internship | Selected for AI/ML Internship at IIIT Allahabad |
-| 🧠 Systems-Level ML | Built a transformer inference engine validated to 1e-12 logit precision |
-| ☁️ Cloud Certified | AWS Certified Cloud Practitioner |
-| 📊 BI Certified | Google Business Intelligence Professional Certificate |
+| Role | Organization | Duration |
+|:--|:--|:--:|
+| Co-Convener | Programming Club (P Club), UIET Panjab University | 2025 – 2026 |
+| Co-Convener | SAE Collegiate Club, UIET Panjab University | 2025 – 2026 |
+| Co-Convener | Entrepreneurship Development Cell (EDC), UIET Panjab University | 2025 – 2026 |
 
 </div>
 
@@ -178,17 +153,14 @@ Worked on **Driver Fault Classification**, a Streamlit-based ML application pred
 
 ## 📜 Certifications
 
-**AWS**
+**Forage Job Simulations**
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Operations%20Job%20Simulation-6D28D9?style=for-the-badge&logo=forage&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7490406987923468288/)
+[![Tata](https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-5B21B6?style=for-the-badge&logo=forage&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7490407516778938369/)
+[![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-7C3AED?style=for-the-badge&logo=forage&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7490407944644120576/)
+[![BCG X](https://img.shields.io/badge/BCG%20X-Data%20Science%20Job%20Simulation-8B5CF6?style=for-the-badge&logo=forage&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7490408404054831104/)
 
-**Coursera**
-
-![Google BI Professional Certificate](https://img.shields.io/badge/Google-Business%20Intelligence%20Professional%20Certificate-7C3AED?style=for-the-badge&logo=coursera&logoColor=white)
-
-**Cisco Networking Academy**
-
-![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)
+</div>
 
 ---
 
